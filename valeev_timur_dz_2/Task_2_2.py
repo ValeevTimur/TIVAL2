@@ -32,7 +32,8 @@ for i in starting_list:
 
                 starting_list[starting_list.index(i)] = i[0] + '0' + n
 
-print(starting_list)
+
+print(str(starting_list))
 
 
 
