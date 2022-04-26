@@ -19,3 +19,4 @@ class TrafficLight:
             sleep(sec)
 traffic_light = TrafficLight()
 traffic_light.running()
+

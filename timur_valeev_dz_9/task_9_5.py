@@ -29,3 +29,4 @@ handle = Handle('маркер')
 pen.draw()
 pencil.draw()
 handle.draw()
+

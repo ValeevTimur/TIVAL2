@@ -18,3 +18,4 @@ class Road:
 
 my_road = Road(20, 5000)
 print(my_road.calc_mass(), 'T')
+
